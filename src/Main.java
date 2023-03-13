@@ -8,5 +8,6 @@ public class Main {
         Scanner sc=new Scanner(System.in);
         String list= sc.nextLine();
         System.out.println("zmienna list ma wartość:  "+list);
+        //zmiany
     }
 }
